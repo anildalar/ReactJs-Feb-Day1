@@ -1,0 +1,84 @@
+ReactJs
+
+ReactJs is a Frontend Development Framework/Libary
+
+Web Application
+
+1. Frontend
+2. Backend
+
+3. FullStack Developer
+
+Google Treands
+
+Diff. Frontend Technologies available in market till today
+
+1. ReactJs  (Real + Virtual DOM) 10.7kb    (Facebook->Meta) ( Jordan Walke)
+		2-4Months
+2. AngularJs (Real DOM) 167 kB    (Goolgle)
+3. VueJs  (Real + Virtual DOM)   33.9Kb    (Evan You)
+
+React creates a VIRTUAL DOM in memory.
+
+Types of DOM (Document Object Model)
+1. Real DOM  
+2. Virtual DOM (Real + Virtual DOM)
+
+
+
+UI = User Interfaces
+
+React is used to build single-page applications (SPA).
+
+SPA applications
+
+DRY
+
+React allows us to create reusable UI components/HTML Elements.
+
+
+Tools Requirements
+
+1. NodeJs
+	https://nodejs.org/en/
+
+Window + R
+
+cmd (command)
+
+
+node -v
+or
+node --version
+
+npm utility
+npm -v
+or
+npm --version
+
+node package manager (npm)
+
+npm install -g create-react-app
+
+npm install -g npm@9.4.1
+
+g = globally
+
+npx create-react-app <ReactProjectName>
+
+npx create-react-app flipkart
+
+cra = create react app
+
+
+Very Import Point
+
+ReactJs is nothing but a nodeJs project
+
+cd projectName
+npm start
+
+http://hostname:portnumber/
+
+http://localhost	3000/
+
